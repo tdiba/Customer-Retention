@@ -33,7 +33,6 @@ This project aims to address the challenge of customer retention through compreh
 - Loyalty Program Evaluation: Analyzed the participation and impact of the loyalty program.
 - Customer Feedback Analysis: Identified common themes and issues from customer feedback.
 - A/B Testing and Optimization: Conducted A/B tests to optimize engagement strategies.
-- Regular Monitoring and Reporting: Created dashboards to monitor key performance indicators (KPIs) in real-time.
 
 
 ### Key Findings
